@@ -1,0 +1,21 @@
+{
+  "name": "ere",
+  "version": "2.0.0",
+  "description": "ddfree",
+  "main": "index.js",
+  "scripts": {
+    "test": "efcx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dde"
+  },
+  "keywords": [
+    "sdff"
+  ],
+  "author": "fds",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
